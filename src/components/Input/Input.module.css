@@ -1,0 +1,17 @@
+.heading{
+    margin-left: 45%;
+}
+.input{
+    margin-left: 37%;
+    height:7vh;
+    width: 15vw;
+   
+}
+
+.Button{
+    margin-left:1px;
+    background-color: green;
+    color:antiquewhite;
+    height:8vh;
+    width:5vw
+}
